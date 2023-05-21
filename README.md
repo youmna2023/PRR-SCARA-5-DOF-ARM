@@ -1,2 +1,4 @@
 # PRR-SCARA-5-DOF-ARM
-Team 17 Robotics Alexandria university  
+Team No. 17
+Introduction to Robotics (EEC493)
+Alexandria university  
